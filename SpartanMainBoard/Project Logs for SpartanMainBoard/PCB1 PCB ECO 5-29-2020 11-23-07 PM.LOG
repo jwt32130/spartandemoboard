@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=SRAM_A10 Pin=U1-R1
+Removed Pin From Net: NetName=SRAM_A10 Pin=U2-19
+Added Pin To Net: NetName=SRAM_A1 Pin=U1-R1
+Added Pin To Net: NetName=SRAM_A1 Pin=U2-19
+Added Net: Name=SRAM_A1

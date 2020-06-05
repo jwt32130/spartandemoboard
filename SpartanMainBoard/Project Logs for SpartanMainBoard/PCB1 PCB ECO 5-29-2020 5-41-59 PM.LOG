@@ -1,0 +1,12 @@
+Added Component: Designator=U2(32L_STSOP-1_H_IS)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Built_By"; Value = "EMA_Cory"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2018 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "IS62WV1288BLL-55HLI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SourceLibrary"; Value = "ISSI_2019-12-02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "ISSI"; VariantName = "[No Variations]"
+Change Net Color : Old Net Color=RGB(23, 39, 33) New Net Color=RGB(0, 156, 202)
+Added Member To Class: ClassName=ArtixBank15 Member=Component U2 Part Number: IS62WV1288BLL-55HLI

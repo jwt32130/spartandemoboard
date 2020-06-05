@@ -1,0 +1,118 @@
+Removed Member From Class: ClassName=ArtixBank15 Member=U2
+Added Component: Designator=C1(0402Footprint)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R1(RES_CRCW_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RES_CRCW_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RES_CRCW_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=R3-2
+Added Pin To Net: NetName=GND Pin=U2-24
+Added Pin To Net: NetName=+1V8 Pin=C1-1
+Added Pin To Net: NetName=+1V8 Pin=R1-1
+Added Pin To Net: NetName=+1V8 Pin=R2-1
+Added Pin To Net: NetName=+1V8 Pin=U1-L6
+Added Pin To Net: NetName=+1V8 Pin=U1-M3
+Added Pin To Net: NetName=+1V8 Pin=U1-P7
+Added Pin To Net: NetName=+1V8 Pin=U1-R4
+Added Pin To Net: NetName=+1V8 Pin=U1-T1
+Added Pin To Net: NetName=+1V8 Pin=U1-V5
+Added Pin To Net: NetName=+1V8 Pin=U2-8
+Added Net: Name=+1V8
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=NetR2_2 Pin=R3-1
+Added Pin To Net: NetName=NetR2_2 Pin=U2-6
+Added Net: Name=NetR2_2
+Added Pin To Net: NetName=SRAM_A0 Pin=U1-P1
+Added Pin To Net: NetName=SRAM_A0 Pin=U2-20
+Added Net: Name=SRAM_A0
+Added Pin To Net: NetName=SRAM_A2 Pin=U1-R2
+Added Pin To Net: NetName=SRAM_A2 Pin=U2-18
+Added Net: Name=SRAM_A2
+Added Pin To Net: NetName=SRAM_A3 Pin=U1-T2
+Added Pin To Net: NetName=SRAM_A3 Pin=U2-17
+Added Net: Name=SRAM_A3
+Added Pin To Net: NetName=SRAM_A4 Pin=U1-U1
+Added Pin To Net: NetName=SRAM_A4 Pin=U1-U6
+Added Pin To Net: NetName=SRAM_A4 Pin=U2-11
+Added Pin To Net: NetName=SRAM_A4 Pin=U2-16
+Added Net: Name=SRAM_A4
+Added Pin To Net: NetName=SRAM_A5 Pin=U1-U2
+Added Pin To Net: NetName=SRAM_A5 Pin=U2-15
+Added Net: Name=SRAM_A5
+Added Pin To Net: NetName=SRAM_A6 Pin=U1-V7
+Added Pin To Net: NetName=SRAM_A6 Pin=U2-14
+Added Net: Name=SRAM_A6
+Added Pin To Net: NetName=SRAM_A7 Pin=U1-U7
+Added Pin To Net: NetName=SRAM_A7 Pin=U2-13
+Added Net: Name=SRAM_A7
+Added Pin To Net: NetName=SRAM_A8 Pin=U1-V3
+Added Pin To Net: NetName=SRAM_A8 Pin=U2-3
+Added Net: Name=SRAM_A8
+Added Pin To Net: NetName=SRAM_A9 Pin=U1-V2
+Added Pin To Net: NetName=SRAM_A9 Pin=U2-2
+Added Net: Name=SRAM_A9
+Added Pin To Net: NetName=SRAM_A10 Pin=U1-J4
+Added Pin To Net: NetName=SRAM_A10 Pin=U1-R1
+Added Pin To Net: NetName=SRAM_A10 Pin=U2-19
+Added Pin To Net: NetName=SRAM_A10 Pin=U2-31
+Added Net: Name=SRAM_A10
+Added Pin To Net: NetName=SRAM_A11 Pin=U1-T3
+Added Pin To Net: NetName=SRAM_A11 Pin=U2-1
+Added Net: Name=SRAM_A11
+Added Pin To Net: NetName=SRAM_A12 Pin=U1-V6
+Added Pin To Net: NetName=SRAM_A12 Pin=U2-12
+Added Net: Name=SRAM_A12
+Added Pin To Net: NetName=SRAM_A13 Pin=U1-U4
+Added Pin To Net: NetName=SRAM_A13 Pin=U2-4
+Added Net: Name=SRAM_A13
+Added Pin To Net: NetName=SRAM_A15 Pin=U1-V4
+Added Pin To Net: NetName=SRAM_A15 Pin=U2-7
+Added Net: Name=SRAM_A15
+Added Pin To Net: NetName=SRAM_A16 Pin=U1-U5
+Added Pin To Net: NetName=SRAM_A16 Pin=U2-10
+Added Net: Name=SRAM_A16
+Added Pin To Net: NetName=SRAM_C\S\1\ Pin=R1-2
+Added Pin To Net: NetName=SRAM_C\S\1\ Pin=U2-30
+Added Net: Name=SRAM_C\S\1\
+Added Pin To Net: NetName=SRAM_DQ0 Pin=U1-N2
+Added Pin To Net: NetName=SRAM_DQ0 Pin=U2-21
+Added Net: Name=SRAM_DQ0
+Added Pin To Net: NetName=SRAM_DQ1 Pin=U1-N1
+Added Pin To Net: NetName=SRAM_DQ1 Pin=U2-22
+Added Net: Name=SRAM_DQ1
+Added Pin To Net: NetName=SRAM_DQ2 Pin=U1-M2
+Added Pin To Net: NetName=SRAM_DQ2 Pin=U2-23
+Added Net: Name=SRAM_DQ2
+Added Pin To Net: NetName=SRAM_DQ3 Pin=U1-M1
+Added Pin To Net: NetName=SRAM_DQ3 Pin=U2-25
+Added Net: Name=SRAM_DQ3
+Added Pin To Net: NetName=SRAM_DQ4 Pin=U1-L2
+Added Pin To Net: NetName=SRAM_DQ4 Pin=U2-26
+Added Net: Name=SRAM_DQ4
+Added Pin To Net: NetName=SRAM_DQ5 Pin=U1-K3
+Added Pin To Net: NetName=SRAM_DQ5 Pin=U2-27
+Added Net: Name=SRAM_DQ5
+Added Pin To Net: NetName=SRAM_DQ6 Pin=U1-K1
+Added Pin To Net: NetName=SRAM_DQ6 Pin=U2-28
+Added Net: Name=SRAM_DQ6
+Added Pin To Net: NetName=SRAM_DQ7 Pin=U1-K2
+Added Pin To Net: NetName=SRAM_DQ7 Pin=U2-29
+Added Net: Name=SRAM_DQ7
+Added Pin To Net: NetName=SRAM_OE Pin=U2-32
+Added Net: Name=SRAM_OE
+Added Pin To Net: NetName=SRAM_WE Pin=U2-5
+Added Net: Name=SRAM_WE
+Added Class: Name=ArtixBank34

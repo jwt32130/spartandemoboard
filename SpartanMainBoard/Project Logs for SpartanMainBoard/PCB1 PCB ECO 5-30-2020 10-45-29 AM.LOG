@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=SRAM_OE Pin=U1-R7
+Added Pin To Net: NetName=SRAM_WE Pin=U1-T7
+Added Pin To Net: NetName=SRAM_C\S\1\ Pin=U1-V8

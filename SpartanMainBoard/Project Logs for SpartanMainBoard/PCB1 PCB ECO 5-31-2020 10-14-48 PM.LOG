@@ -1,0 +1,17 @@
+Added Component: Designator=U?(SOP127P1030X265-16N)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=FLASH_DQ3 Pin=U?-1
+Added Pin To Net: NetName=LCD_LEDA Pin=U?-2
+Added Pin To Net: NetName=FLASH_R\S\T\ Pin=U?-3
+Added Pin To Net: NetName=FLASH_C\S\ Pin=U?-7
+Added Pin To Net: NetName=FLASH_DQ1 Pin=U?-8
+Added Pin To Net: NetName=FLASH_DQ2 Pin=U?-9
+Added Pin To Net: NetName=GND Pin=U?-10
+Added Pin To Net: NetName=FLASH_DQ0 Pin=U?-15
+Added Pin To Net: NetName=FLASH_CLK Pin=U?-16
+Added Member To Class: ClassName=ArtixBank14 Member=Component C? 1uf
+Added Member To Class: ClassName=ArtixBank14 Member=Component C? 100nf
+Added Member To Class: ClassName=ArtixBank14 Member=Component C? 1uf
+Added Member To Class: ClassName=ArtixBank14 Member=Component R? 10K
+Added Member To Class: ClassName=ArtixConfig Member=Component R? 22OHM
+Added Member To Class: ClassName=ArtixBank14 Member=Component U? MT25QL256ABA8ESF-0SIT

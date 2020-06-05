@@ -1,0 +1,42 @@
+Added Component: Designator=U2(32L_STSOP-1_H_IS)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Built_By"; Value = "EMA_Cory"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2018 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "IS62WV1288BLL-55HLI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SourceLibrary"; Value = "ISSI_2019-12-02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "ISSI"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SRAM_A11 Pin=U2-1
+Added Pin To Net: NetName=SRAM_A9 Pin=U2-2
+Added Pin To Net: NetName=SRAM_A8 Pin=U2-3
+Added Pin To Net: NetName=SRAM_A13 Pin=U2-4
+Added Pin To Net: NetName=SRAM_WE Pin=U2-5
+Added Pin To Net: NetName=NetR2_2 Pin=U2-6
+Added Pin To Net: NetName=SRAM_A15 Pin=U2-7
+Added Pin To Net: NetName=+1V8 Pin=U2-8
+Added Pin To Net: NetName=SRAM_A16 Pin=U2-10
+Added Pin To Net: NetName=SRAM_A4 Pin=U2-11
+Added Pin To Net: NetName=SRAM_A12 Pin=U2-12
+Added Pin To Net: NetName=SRAM_A7 Pin=U2-13
+Added Pin To Net: NetName=SRAM_A6 Pin=U2-14
+Added Pin To Net: NetName=SRAM_A5 Pin=U2-15
+Added Pin To Net: NetName=SRAM_A4 Pin=U2-16
+Added Pin To Net: NetName=SRAM_A3 Pin=U2-17
+Added Pin To Net: NetName=SRAM_A2 Pin=U2-18
+Added Pin To Net: NetName=SRAM_A10 Pin=U2-19
+Added Pin To Net: NetName=SRAM_A0 Pin=U2-20
+Added Pin To Net: NetName=SRAM_DQ0 Pin=U2-21
+Added Pin To Net: NetName=SRAM_DQ1 Pin=U2-22
+Added Pin To Net: NetName=SRAM_DQ2 Pin=U2-23
+Added Pin To Net: NetName=GND Pin=U2-24
+Added Pin To Net: NetName=SRAM_DQ3 Pin=U2-25
+Added Pin To Net: NetName=SRAM_DQ4 Pin=U2-26
+Added Pin To Net: NetName=SRAM_DQ5 Pin=U2-27
+Added Pin To Net: NetName=SRAM_DQ6 Pin=U2-28
+Added Pin To Net: NetName=SRAM_DQ7 Pin=U2-29
+Added Pin To Net: NetName=SRAM_C\S\1\ Pin=U2-30
+Added Pin To Net: NetName=SRAM_A10 Pin=U2-31
+Added Pin To Net: NetName=SRAM_OE Pin=U2-32
+Added Member To Class: ClassName=ArtixBank34 Member=Component U2 Part Number: IS62WV1288BLL-55HLI

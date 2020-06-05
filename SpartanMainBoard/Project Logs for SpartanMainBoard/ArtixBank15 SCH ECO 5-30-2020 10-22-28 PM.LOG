@@ -1,0 +1,6 @@
+Replace Part C1 100nf_0402 in E:\HardwareProjects\SpartanDemo\SpartanMainBoard\ArtixBank15.SchDoc with 100nf_0402 from Capacitors.IntLib
+Replace Part R1 1k_0402 in E:\HardwareProjects\SpartanDemo\SpartanMainBoard\ArtixBank15.SchDoc with 1k_0402 from Resistors.IntLib
+Replace Part R2 1k_0402 in E:\HardwareProjects\SpartanDemo\SpartanMainBoard\ArtixBank15.SchDoc with 1k_0402 from Resistors.IntLib
+Replace Part R3 NC_0402 in E:\HardwareProjects\SpartanDemo\SpartanMainBoard\ArtixBank15.SchDoc with NC_0402 from Resistors.IntLib
+Replace Part U1 XC7A12T_1CSG325I in E:\HardwareProjects\SpartanDemo\SpartanMainBoard\ArtixBank15.SchDoc with XC7A12T_1CSG325I from XC7A12T_1CPG238I.IntLib
+Replace Part U2 IS62WV1288BLL-55 in E:\HardwareProjects\SpartanDemo\SpartanMainBoard\ArtixBank15.SchDoc with IS62WV1288BLL-55 from ul_IS62WV1288BLL55HLI.IntLib

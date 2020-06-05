@@ -1,0 +1,58 @@
+Removed Pin From Net: NetName=GND Pin=U1-B1
+Removed Pin From Net: NetName=GND Pin=U1-B2
+Removed Pin From Net: NetName=GND Pin=U1-D1
+Removed Pin From Net: NetName=GND Pin=U1-D2
+Removed Pin From Net: NetName=GND Pin=U1-J9
+Added Component: Designator=FB?(0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Laird-Signal Integrity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "HZ0805E601R-10"; VariantName = "[No Variations]"
+Added Component: Designator=FB?(0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Laird-Signal Integrity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "HZ0805E601R-10"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+1V8 Pin=FB?-2
+Added Pin To Net: NetName=GND Pin=FB?-2
+Added Pin To Net: NetName=GND Pin=U1-A2
+Added Pin To Net: NetName=GND Pin=U1-A6
+Added Pin To Net: NetName=GND Pin=U1-B4
+Added Pin To Net: NetName=GND Pin=U1-C1
+Added Pin To Net: NetName=GND Pin=U1-C5
+Added Pin To Net: NetName=GND Pin=U1-E1
+Added Pin To Net: NetName=GND Pin=U1-E5
+Added Pin To Net: NetName=+1V8 Pin=U1-E11
+Added Pin To Net: NetName=GND Pin=U1-F3
+Added Pin To Net: NetName=GND Pin=U1-F5
+Added Pin To Net: NetName=GND Pin=U1-G2
+Added Pin To Net: NetName=+1V8 Pin=U1-G12
+Added Pin To Net: NetName=+1V8 Pin=U1-H13
+Added Pin To Net: NetName=+1V8 Pin=U1-K13
+Added Pin To Net: NetName=+1V8 Pin=U1-M13
+Added Pin To Net: NetName=+1V8 Pin=U1-P13
+Added Pin To Net: NetName=+1V0 Pin=U1-F7
+Added Pin To Net: NetName=+1V0 Pin=U1-F9
+Added Pin To Net: NetName=+1V0 Pin=U1-F11
+Added Pin To Net: NetName=+1V0 Pin=U1-G8
+Added Pin To Net: NetName=+1V0 Pin=U1-G10
+Added Pin To Net: NetName=+1V0 Pin=U1-H7
+Added Pin To Net: NetName=+1V0 Pin=U1-H9
+Added Pin To Net: NetName=+1V0 Pin=U1-H11
+Added Pin To Net: NetName=+1V0 Pin=U1-J8
+Added Pin To Net: NetName=+1V0 Pin=U1-J12
+Added Pin To Net: NetName=+1V0 Pin=U1-K7
+Added Pin To Net: NetName=+1V0 Pin=U1-K11
+Added Pin To Net: NetName=+1V0 Pin=U1-L8
+Added Pin To Net: NetName=+1V0 Pin=U1-L12
+Added Pin To Net: NetName=+1V0 Pin=U1-M7
+Added Pin To Net: NetName=+1V0 Pin=U1-M11
+Added Pin To Net: NetName=+1V0 Pin=U1-N8
+Added Pin To Net: NetName=+1V0 Pin=U1-N10
+Added Pin To Net: NetName=+1V0 Pin=U1-N12
+Added Pin To Net: NetName=+1V0 Pin=U1-P9
+Added Pin To Net: NetName=+1V0 Pin=U1-P11
+Added Net: Name=+1V0
+Added Pin To Net: NetName=NetFB?_1 Pin=FB?-1
+Added Pin To Net: NetName=NetFB?_1 Pin=U1-J10
+Added Net: Name=NetFB?_1
+Added Class: Name=ArtixConfig
+Added Class: Name=ArtixPower

@@ -1,0 +1,64 @@
+Added Component: Designator=C?(1210)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?(1210)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?(0805FOOTPRINT)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?(1210)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?(1210)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=U?-A2
+Added Pin To Net: NetName=GND Pin=U?-A3
+Added Pin To Net: NetName=GND Pin=U?-A5
+Added Pin To Net: NetName=GND Pin=U?-A6
+Added Pin To Net: NetName=GND Pin=U?-B2
+Added Pin To Net: NetName=GND Pin=U?-B3
+Added Pin To Net: NetName=GND Pin=U?-B5
+Added Pin To Net: NetName=GND Pin=U?-B6
+Added Pin To Net: NetName=GND Pin=U?-C2
+Added Pin To Net: NetName=GND Pin=U?-C6
+Added Pin To Net: NetName=GND Pin=U?-D1
+Added Pin To Net: NetName=GND Pin=U?-D2
+Added Pin To Net: NetName=GND Pin=U?-D3
+Added Pin To Net: NetName=GND Pin=U?-D4
+Added Pin To Net: NetName=GND Pin=U?-D5
+Added Pin To Net: NetName=GND Pin=U?-D6
+Added Pin To Net: NetName=GND Pin=U?-D7
+Added Pin To Net: NetName=GND Pin=U?-E2
+Added Pin To Net: NetName=GND Pin=U?-E6
+Added Pin To Net: NetName=GND Pin=U?-F2
+Added Pin To Net: NetName=GND Pin=U?-F3
+Added Pin To Net: NetName=GND Pin=U?-F5
+Added Pin To Net: NetName=GND Pin=U?-F6
+Added Pin To Net: NetName=GND Pin=U?-G2
+Added Pin To Net: NetName=GND Pin=U?-G3
+Added Pin To Net: NetName=GND Pin=U?-G5
+Added Pin To Net: NetName=GND Pin=U?-G6
+Change Net Name : Old Net Name=LCD_LEDA New Net Name=+3V3
+Added Member To Class: ClassName=ArtixBank14 Member=Component C? 1uf
+Added Member To Class: ClassName=ArtixBank14 Member=Component C? 100nf
+Added Member To Class: ClassName=ArtixBank14 Member=Component C? 1uf
+Added Member To Class: ClassName=Power Member=Component C? 47uf 16V
+Added Member To Class: ClassName=Power Member=Component C? 47uf 16V
+Added Member To Class: ClassName=Power Member=Component C? 22uf 25V
+Added Member To Class: ClassName=Power Member=Component C? 47uf 16V
+Added Member To Class: ClassName=Power Member=Component C? 47uf 16V
+Added Member To Class: ClassName=ArtixBank14 Member=Component R? 10K
+Added Member To Class: ClassName=ArtixConfig Member=Component R? 22OHM

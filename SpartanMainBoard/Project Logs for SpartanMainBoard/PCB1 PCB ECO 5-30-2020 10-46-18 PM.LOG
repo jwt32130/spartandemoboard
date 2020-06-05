@@ -1,0 +1,405 @@
+Added Component: Designator=C1(0402Footprint)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C2(0402Footprint)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D1(0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Lite-On Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "LTST-C190GKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603 Lite-On"; VariantName = "[No Variations]"
+Added Component: Designator=FB1(0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Laird-Signal Integrity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "HZ0805E601R-10"; VariantName = "[No Variations]"
+Added Component: Designator=FB2(0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Laird-Signal Integrity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "HZ0805E601R-10"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RES_CRCW_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RES_CRCW_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RES_CRCW_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R4(RES_CRCW_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RES_CRCW_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RES_CRCW_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Component: Designator=R7(RES_CRCW_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Component: Designator=R8(RES_CRCW_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Component: Designator=R9(RES_CRCW_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Component: Designator=R10(RES_CRCW_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R11(RES_CRCW_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Component: Designator=R12(RES_CRCW_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Component: Designator=R13(RES_CRCW_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Component: Designator=R14(RES_CRCW_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Component: Designator=R15(RES_CRCW_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Component: Designator=R16(RES_CRCW_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Component: Designator=R17(RES_CRCW_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R18(RES_CRCW_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R19(RES_CRCW_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R20(RES_CRCW_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R21(RES_CRCW_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Component: Designator=R22(RES_CRCW_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R23(RES_CRCW_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R24(RES_CRCW_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Component: Designator=R25(RES_CRCW_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R26(RES_CRCW_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Component: Designator=R27(RES_CRCW_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Component: Designator=SW1(B3SN-3012P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case/Package"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/1532/en-b3sn-1532676.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/1532/en-b3sn-1532676.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/16154/en-b3sn-16154998.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/16154/en-b3sn-16154998.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/2900/b3sn-1110-2900023.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/2900/b3sn-1110-2900023.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.ciiva.com/5283/en-b3sn-371257-5283623.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.ciiva.com/5283/en-b3sn-371257-5283623.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "https://datasheet.ciiva.com/2900/b3sn-1110-2900024.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://datasheet.ciiva.com/2900/b3sn-1110-2900024.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "https://datasheet.ciiva.com/2900/b3sn-1110-2900025.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6URL"; Value = "https://datasheet.ciiva.com/2900/b3sn-1110-2900025.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7Description"; Value = "https://datasheet.ciiva.com/15183/getdatasheetpartid-87284-15183738.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7URL"; Value = "https://datasheet.ciiva.com/15183/getdatasheetpartid-87284-15183738.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8Description"; Value = "https://datasheet.ciiva.com/30076/en-b3sn-30076973.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8URL"; Value = "https://datasheet.ciiva.com/30076/en-b3sn-30076973.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Current Rating"; Value = "50mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "100mR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "50mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Electrical Life"; Value = "50000Cycles"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "3.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Illumination Type"; Value = "Non-Illuminated,Illuminated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IP Rating"; Value = "IP67,Waterproof,Dust Tight"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Contains Lead"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "6.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Omron"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "B3SN-3012P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = "50mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "70°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Voltage Rating (DC)"; Value = "24V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mechanical Life"; Value = "100000Cycles"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-25°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Poles"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Force"; Value = "1.57N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Straight"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "3000=0.52365 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "48000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "SW261TR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Function"; Value = "Off-Mom"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Travel"; Value = "0.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Throw Configuration"; Value = "SPST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "24V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.007055oz"; VariantName = "[No Variations]"
+Added Component: Designator=U2(32L_STSOP-1_H_IS)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Built_By"; Value = "EMA_Cory"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2018 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "IS62WV1288BLL-55HLI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SourceLibrary"; Value = "ISSI_2019-12-02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "ISSI"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3V3 Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=+3V3 Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=D1-1
+Added Pin To Net: NetName=NetD?_2 Pin=D1-2
+Added Pin To Net: NetName=NetFB?_1 Pin=FB1-1
+Added Pin To Net: NetName=+1V8 Pin=FB1-2
+Added Pin To Net: NetName=GND Pin=FB2-2
+Added Pin To Net: NetName=+3V3 Pin=R1-1
+Added Pin To Net: NetName=SRAM_C\S\1\ Pin=R1-2
+Added Pin To Net: NetName=+3V3 Pin=R2-1
+Added Pin To Net: NetName=GND Pin=R3-2
+Added Pin To Net: NetName=+3V3 Pin=R4-1
+Added Pin To Net: NetName=NetD?_2 Pin=R4-2
+Added Pin To Net: NetName=+3V3 Pin=R5-1
+Added Pin To Net: NetName=Reset_B Pin=R5-2
+Added Pin To Net: NetName=+3V3 Pin=R6-1
+Added Pin To Net: NetName=+3V3 Pin=R7-1
+Added Pin To Net: NetName=+3V3 Pin=R8-1
+Added Pin To Net: NetName=+3V3 Pin=R9-1
+Added Pin To Net: NetName=TDO Pin=R10-2
+Added Pin To Net: NetName=NetR?_2 Pin=R11-2
+Added Pin To Net: NetName=+3V3 Pin=R13-2
+Added Pin To Net: NetName=+3V3 Pin=R16-1
+Added Pin To Net: NetName=TMS Pin=R17-1
+Added Pin To Net: NetName=TCK Pin=R18-1
+Added Pin To Net: NetName=TDI Pin=R19-1
+Added Pin To Net: NetName=GND Pin=R20-1
+Added Pin To Net: NetName=+3V3 Pin=R21-1
+Added Pin To Net: NetName=M0 Pin=R21-2
+Added Pin To Net: NetName=+3V3 Pin=R22-1
+Added Pin To Net: NetName=M1 Pin=R22-2
+Added Pin To Net: NetName=+3V3 Pin=R23-1
+Added Pin To Net: NetName=M2 Pin=R23-2
+Added Pin To Net: NetName=Reset_B Pin=R24-2
+Added Pin To Net: NetName=M0 Pin=R25-1
+Added Pin To Net: NetName=GND Pin=R25-2
+Added Pin To Net: NetName=M1 Pin=R26-1
+Added Pin To Net: NetName=GND Pin=R26-2
+Added Pin To Net: NetName=M2 Pin=R27-1
+Added Pin To Net: NetName=GND Pin=R27-2
+Added Pin To Net: NetName=GND Pin=SW1-4
+Added Pin To Net: NetName=SRAM_A9 Pin=U1-A9
+Added Pin To Net: NetName=SRAM_A13 Pin=U1-A10
+Added Pin To Net: NetName=SRAM_A16 Pin=U1-A12
+Added Pin To Net: NetName=SRAM_A12 Pin=U1-A13
+Added Pin To Net: NetName=SRAM_A7 Pin=U1-A14
+Added Pin To Net: NetName=SRAM_A5 Pin=U1-A15
+Added Pin To Net: NetName=SRAM_A10 Pin=U1-A17
+Added Pin To Net: NetName=SRAM_A11 Pin=U1-B9
+Added Pin To Net: NetName=SRAM_WE Pin=U1-B10
+Added Pin To Net: NetName=SRAM_A15 Pin=U1-B11
+Added Pin To Net: NetName=SRAM_A14 Pin=U1-B12
+Added Pin To Net: NetName=SRAM_A6 Pin=U1-B14
+Added Pin To Net: NetName=SRAM_A4 Pin=U1-B15
+Added Pin To Net: NetName=SRAM_OE Pin=U1-B16
+Added Pin To Net: NetName=SRAM_DQ7 Pin=U1-B17
+Added Pin To Net: NetName=SRAM_C\S\1\ Pin=U1-C16
+Added Pin To Net: NetName=SRAM_DQ6 Pin=U1-C17
+Added Pin To Net: NetName=SRAM_DQ5 Pin=U1-C18
+Added Pin To Net: NetName=SRAM_A8 Pin=U1-D10
+Added Pin To Net: NetName=SRAM_DQ4 Pin=U1-D18
+Added Pin To Net: NetName=SRAM_DQ3 Pin=U1-E17
+Added Pin To Net: NetName=SRAM_DQ2 Pin=U1-E18
+Added Pin To Net: NetName=SRAM_DQ1 Pin=U1-F17
+Added Pin To Net: NetName=SRAM_DQ0 Pin=U1-F18
+Added Pin To Net: NetName=SRAM_A0 Pin=U1-G17
+Added Pin To Net: NetName=SRAM_A1 Pin=U1-H16
+Added Pin To Net: NetName=SRAM_A2 Pin=U1-H17
+Added Pin To Net: NetName=SRAM_A3 Pin=U1-H18
+Added Pin To Net: NetName=SRAM_A11 Pin=U2-1
+Added Pin To Net: NetName=SRAM_A9 Pin=U2-2
+Added Pin To Net: NetName=SRAM_A8 Pin=U2-3
+Added Pin To Net: NetName=SRAM_A13 Pin=U2-4
+Added Pin To Net: NetName=SRAM_WE Pin=U2-5
+Added Pin To Net: NetName=SRAM_A15 Pin=U2-7
+Added Pin To Net: NetName=+3V3 Pin=U2-8
+Added Pin To Net: NetName=SRAM_A16 Pin=U2-10
+Added Pin To Net: NetName=SRAM_A14 Pin=U2-11
+Added Pin To Net: NetName=SRAM_A12 Pin=U2-12
+Added Pin To Net: NetName=SRAM_A7 Pin=U2-13
+Added Pin To Net: NetName=SRAM_A6 Pin=U2-14
+Added Pin To Net: NetName=SRAM_A5 Pin=U2-15
+Added Pin To Net: NetName=SRAM_A4 Pin=U2-16
+Added Pin To Net: NetName=SRAM_A3 Pin=U2-17
+Added Pin To Net: NetName=SRAM_A2 Pin=U2-18
+Added Pin To Net: NetName=SRAM_A1 Pin=U2-19
+Added Pin To Net: NetName=SRAM_A0 Pin=U2-20
+Added Pin To Net: NetName=SRAM_DQ0 Pin=U2-21
+Added Pin To Net: NetName=SRAM_DQ1 Pin=U2-22
+Added Pin To Net: NetName=SRAM_DQ2 Pin=U2-23
+Added Pin To Net: NetName=GND Pin=U2-24
+Added Pin To Net: NetName=SRAM_DQ3 Pin=U2-25
+Added Pin To Net: NetName=SRAM_DQ4 Pin=U2-26
+Added Pin To Net: NetName=SRAM_DQ5 Pin=U2-27
+Added Pin To Net: NetName=SRAM_DQ6 Pin=U2-28
+Added Pin To Net: NetName=SRAM_DQ7 Pin=U2-29
+Added Pin To Net: NetName=SRAM_C\S\1\ Pin=U2-30
+Added Pin To Net: NetName=SRAM_A10 Pin=U2-31
+Added Pin To Net: NetName=SRAM_OE Pin=U2-32
+Change Net Name : Old Net Name=NetD?_2 New Net Name=NetD1_2
+Change Net Name : Old Net Name=NetFB?_1 New Net Name=NetFB1_1
+Change Net Name : Old Net Name=NetR?_2 New Net Name=NetR11_2
+Added Pin To Net: NetName=NetFB2_1 Pin=FB2-1
+Added Pin To Net: NetName=NetFB2_1 Pin=U1-J9
+Added Net: Name=NetFB2_1
+Added Pin To Net: NetName=NetJ1_4 Pin=R17-2
+Added Net: Name=NetJ1_4
+Added Pin To Net: NetName=NetJ1_6 Pin=R18-2
+Added Net: Name=NetJ1_6
+Added Pin To Net: NetName=NetJ1_10 Pin=R19-2
+Added Net: Name=NetJ1_10
+Added Pin To Net: NetName=NetJ1_14 Pin=R20-2
+Added Net: Name=NetJ1_14
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=NetR2_2 Pin=R3-1
+Added Pin To Net: NetName=NetR2_2 Pin=U2-6
+Added Net: Name=NetR2_2
+Added Pin To Net: NetName=NetR6_2 Pin=R6-2
+Added Pin To Net: NetName=NetR6_2 Pin=U1-T10
+Added Net: Name=NetR6_2
+Added Pin To Net: NetName=NetR7_2 Pin=R7-2
+Added Pin To Net: NetName=NetR7_2 Pin=U1-L15
+Added Net: Name=NetR7_2
+Added Pin To Net: NetName=NetR8_2 Pin=R8-2
+Added Pin To Net: NetName=NetR8_2 Pin=R14-1
+Added Net: Name=NetR8_2
+Added Pin To Net: NetName=NetR9_2 Pin=R9-2
+Added Pin To Net: NetName=NetR9_2 Pin=R15-1
+Added Net: Name=NetR9_2
+Added Pin To Net: NetName=NetR10_1 Pin=R10-1
+Added Pin To Net: NetName=NetR10_1 Pin=U1-T8
+Added Net: Name=NetR10_1
+Added Pin To Net: NetName=NetR11_1 Pin=R11-1
+Added Net: Name=NetR11_1
+Added Pin To Net: NetName=NetR12_1 Pin=R12-1
+Added Net: Name=NetR12_1
+Added Pin To Net: NetName=NetR12_2 Pin=R12-2
+Added Pin To Net: NetName=NetR12_2 Pin=U1-L17
+Added Net: Name=NetR12_2
+Added Pin To Net: NetName=NetR13_1 Pin=R13-1
+Added Pin To Net: NetName=NetR13_1 Pin=U1-E12
+Added Net: Name=NetR13_1
+Added Pin To Net: NetName=NetR14_2 Pin=R14-2
+Added Pin To Net: NetName=NetR14_2 Pin=U1-J15
+Added Net: Name=NetR14_2
+Added Pin To Net: NetName=NetR15_2 Pin=R15-2
+Added Pin To Net: NetName=NetR15_2 Pin=U1-J16
+Added Net: Name=NetR15_2
+Added Pin To Net: NetName=NetR16_2 Pin=R16-2
+Added Pin To Net: NetName=NetR16_2 Pin=U1-J18
+Added Net: Name=NetR16_2
+Added Pin To Net: NetName=NetR24_1 Pin=R24-1
+Added Pin To Net: NetName=NetR24_1 Pin=SW1-2
+Added Net: Name=NetR24_1
+Added Member To Class: ClassName=ArtixBank15 Member=Component C1 100nf
+Added Member To Class: ClassName=ArtixConfig Member=Component C2 100nf
+Added Member To Class: ClassName=ArtixConfig Member=Component D1 LTST-C190GKT
+Added Member To Class: ClassName=ArtixPower Member=Component FB1 600OHM 100Mhz
+Added Member To Class: ClassName=ArtixPower Member=Component FB2 600OHM 100Mhz
+Added Member To Class: ClassName=ArtixBank15 Member=Component R1 1K
+Added Member To Class: ClassName=ArtixBank15 Member=Component R2 1K
+Added Member To Class: ClassName=ArtixBank15 Member=Component R3 NC
+Added Member To Class: ClassName=ArtixConfig Member=Component R4 300OHM
+Added Member To Class: ClassName=ArtixConfig Member=Component R5 4.7K
+Added Member To Class: ClassName=ArtixConfig Member=Component R6 4.7K
+Added Member To Class: ClassName=ArtixConfig Member=Component R7 4.7K
+Added Member To Class: ClassName=ArtixConfig Member=Component R8 4.7K
+Added Member To Class: ClassName=ArtixConfig Member=Component R9 4.7K
+Added Member To Class: ClassName=ArtixConfig Member=Component R10 0OHM
+Added Member To Class: ClassName=ArtixConfig Member=Component R11 100OHM
+Added Member To Class: ClassName=ArtixConfig Member=Component R12 100OHM
+Added Member To Class: ClassName=ArtixConfig Member=Component R13 4.7K
+Added Member To Class: ClassName=ArtixConfig Member=Component R14 100OHM
+Added Member To Class: ClassName=ArtixConfig Member=Component R15 100OHM
+Added Member To Class: ClassName=ArtixConfig Member=Component R16 1K
+Added Member To Class: ClassName=ArtixConfig Member=Component R17 0OHM
+Added Member To Class: ClassName=ArtixConfig Member=Component R18 0OHM
+Added Member To Class: ClassName=ArtixConfig Member=Component R19 0OHM
+Added Member To Class: ClassName=ArtixConfig Member=Component R20 0OHM
+Added Member To Class: ClassName=ArtixConfig Member=Component R21 1K
+Added Member To Class: ClassName=ArtixConfig Member=Component R22 NC
+Added Member To Class: ClassName=ArtixConfig Member=Component R23 NC
+Added Member To Class: ClassName=ArtixConfig Member=Component R24 100OHM
+Added Member To Class: ClassName=ArtixConfig Member=Component R25 NC
+Added Member To Class: ClassName=ArtixConfig Member=Component R26 1K
+Added Member To Class: ClassName=ArtixConfig Member=Component R27 1K
+Added Member To Class: ClassName=ArtixConfig Member=Component SW1 B3SN-3012P
+Added Member To Class: ClassName=ArtixBank15 Member=Component U2 Part Number: IS62WV1288BLL-55HLI

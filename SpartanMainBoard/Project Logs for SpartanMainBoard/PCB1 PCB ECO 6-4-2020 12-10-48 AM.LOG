@@ -1,0 +1,209 @@
+Removed Pin From Net: NetName=GND Pin=C?-2
+Change Component Footprint: Designator=C? Old Footprint=0805FOOTPRINT New Footprint=0402Footprint
+Change Component Footprint: Designator=C? Old Footprint=1206 New Footprint=0402Footprint
+Change Component Comment : Designator=C? Old Comment=22uf 25V New Comment=0.47uf
+Change Component Comment : Designator=C? Old Comment=100uf New Comment=0.47uf
+Added Component: Designator=C?(0402Footprint)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?(0402Footprint)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?(0402Footprint)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?(0402Footprint)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?(0805FOOTPRINT)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?(0805FOOTPRINT)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?(0805FOOTPRINT)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?(0805FOOTPRINT)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?(0402Footprint)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?(0402Footprint)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?(0402Footprint)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?(0402Footprint)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?(1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES_CRCW_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES_CRCW_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES_CRCW_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES_CRCW_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES_CRCW_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES_CRCW_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=+1V0 Pin=C?-2
+Added Pin To Net: NetName=+1V8 Pin=C?-2
+Added Pin To Net: NetName=+3V1 Pin=C?-2
+Added Pin To Net: NetName=+3V3 Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=+1V8 Pin=U?-A1
+Added Pin To Net: NetName=+1V8 Pin=U?-A2
+Added Pin To Net: NetName=+1V8 Pin=U?-A3
+Added Pin To Net: NetName=GND Pin=U?-A4
+Added Pin To Net: NetName=GND Pin=U?-A5
+Added Pin To Net: NetName=GND Pin=U?-B1
+Added Pin To Net: NetName=GND Pin=U?-B2
+Added Pin To Net: NetName=GND Pin=U?-B6
+Added Pin To Net: NetName=+1V0 Pin=U?-C1
+Added Pin To Net: NetName=GND Pin=U?-C5
+Added Pin To Net: NetName=+1V0 Pin=U?-D1
+Added Pin To Net: NetName=+1V0 Pin=U?-D2
+Added Pin To Net: NetName=GND Pin=U?-D3
+Added Pin To Net: NetName=GND Pin=U?-D4
+Added Pin To Net: NetName=GND Pin=U?-D5
+Added Pin To Net: NetName=GND Pin=U?-E1
+Added Pin To Net: NetName=GND Pin=U?-E2
+Added Pin To Net: NetName=GND Pin=U?-E6
+Added Pin To Net: NetName=+3V3 Pin=U?-F1
+Added Pin To Net: NetName=GND Pin=U?-F5
+Added Pin To Net: NetName=GND Pin=U?-F7
+Added Pin To Net: NetName=+3V3 Pin=U?-G1
+Added Pin To Net: NetName=+3V3 Pin=U?-G2
+Added Pin To Net: NetName=GND Pin=U?-G3
+Added Pin To Net: NetName=GND Pin=U?-G4
+Added Pin To Net: NetName=GND Pin=U?-G5
+Added Pin To Net: NetName=GND Pin=U?-H1
+Added Pin To Net: NetName=GND Pin=U?-H2
+Added Pin To Net: NetName=GND Pin=U?-H6
+Added Pin To Net: NetName=+3V1 Pin=U?-J1
+Added Pin To Net: NetName=GND Pin=U?-J5
+Added Pin To Net: NetName=+3V1 Pin=U?-K1
+Added Pin To Net: NetName=+3V1 Pin=U?-K2
+Added Pin To Net: NetName=GND Pin=U?-K3
+Added Pin To Net: NetName=GND Pin=U?-K4
+Added Pin To Net: NetName=GND Pin=U?-L1
+Added Pin To Net: NetName=GND Pin=U?-L2
+Added Pin To Net: NetName=GND Pin=U?-L6
+Added Pin To Net: NetName=+5 Pin=C?-1
+Added Pin To Net: NetName=+5 Pin=C?-1
+Added Pin To Net: NetName=+5 Pin=C?-1
+Added Pin To Net: NetName=+5 Pin=C?-1
+Added Pin To Net: NetName=+5 Pin=R?-1
+Added Pin To Net: NetName=+5 Pin=R?-1
+Added Pin To Net: NetName=+5 Pin=U?-B3
+Added Pin To Net: NetName=+5 Pin=U?-B4
+Added Pin To Net: NetName=+5 Pin=U?-B5
+Added Pin To Net: NetName=+5 Pin=U?-E3
+Added Pin To Net: NetName=+5 Pin=U?-E4
+Added Pin To Net: NetName=+5 Pin=U?-E5
+Added Pin To Net: NetName=+5 Pin=U?-F6
+Added Pin To Net: NetName=+5 Pin=U?-H3
+Added Pin To Net: NetName=+5 Pin=U?-H4
+Added Pin To Net: NetName=+5 Pin=U?-H5
+Added Pin To Net: NetName=+5 Pin=U?-L3
+Added Pin To Net: NetName=+5 Pin=U?-L4
+Added Pin To Net: NetName=+5 Pin=U?-L5
+Added Net: Name=+5
+Added Pin To Net: NetName=1V0Good Pin=R?-2
+Added Pin To Net: NetName=1V0Good Pin=R?-2
+Added Pin To Net: NetName=1V0Good Pin=U?-C2
+Added Pin To Net: NetName=1V0Good Pin=U?-C3
+Added Pin To Net: NetName=1V0Good Pin=U?-C6
+Added Pin To Net: NetName=1V0Good Pin=U?-J6
+Added Pin To Net: NetName=1V0Good Pin=U?-K7
+Added Net: Name=1V0Good
+Added Pin To Net: NetName=3V1Good Pin=U?-J2
+Added Net: Name=3V1Good
+Added Pin To Net: NetName=3V3Good Pin=U?-F2
+Added Net: Name=3V3Good
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Pin To Net: NetName=NetR?_2 Pin=U?-A7
+Added Net: Name=NetR?_2
+Added Member To Class: ClassName=ArtixBank14 Member=Component C? 1uf
+Added Member To Class: ClassName=ArtixBank14 Member=Component C? 1uf
+Added Member To Class: ClassName=ArtixBank14 Member=Component C? 1uf
+Added Member To Class: ClassName=ArtixBank14 Member=Component C? 100nf
+Added Member To Class: ClassName=ArtixConfig Member=Component C? 100nf
+Added Member To Class: ClassName=ArtixPower Member=Component C? 0.47uf
+Added Member To Class: ClassName=ArtixPower Member=Component C? 0.47uf
+Added Member To Class: ClassName=ArtixPower Member=Component C? 100uf
+Added Member To Class: ClassName=ArtixPower Member=Component C? 4.7uf
+Added Member To Class: ClassName=Power Member=Component C? 100nf
+Added Member To Class: ClassName=Power Member=Component C? 100nf
+Added Member To Class: ClassName=Power Member=Component C? 100nf
+Added Member To Class: ClassName=Power Member=Component C? 100nf
+Added Member To Class: ClassName=Power Member=Component C? 47uf
+Added Member To Class: ClassName=Power Member=Component C? 47uf
+Added Member To Class: ClassName=Power Member=Component C? 47uf
+Added Member To Class: ClassName=Power Member=Component C? 47uf
+Added Member To Class: ClassName=Power Member=Component C? 10uf
+Added Member To Class: ClassName=Power Member=Component C? 10uf
+Added Member To Class: ClassName=Power Member=Component C? 10uf
+Added Member To Class: ClassName=Power Member=Component C? 10uf
+Added Member To Class: ClassName=ArtixBank14 Member=Component R? 10K
+Added Member To Class: ClassName=ArtixConfig Member=Component R? 22OHM
+Added Member To Class: ClassName=Power Member=Component R? 13.3K
+Added Member To Class: ClassName=Power Member=Component R? 100K
+Added Member To Class: ClassName=Power Member=Component R? 30.1K
+Added Member To Class: ClassName=Power Member=Component R? 100K
+Added Member To Class: ClassName=Power Member=Component R? 14.5K
+Added Member To Class: ClassName=Power Member=Component R? 90.9K

@@ -1,0 +1,15 @@
+Added Component: Designator=U?(BGA49C80P7X7_625X625X210)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=+5 Pin=U?-A4
+Added Pin To Net: NetName=+5 Pin=U?-B4
+Added Pin To Net: NetName=+5 Pin=U?-F4
+Added Pin To Net: NetName=+5 Pin=U?-G4
+Added Net: Name=+5
+Added Class: Name=Power
+Added Member To Class: ClassName=ArtixBank14 Member=Component C? 1uf
+Added Member To Class: ClassName=ArtixBank14 Member=Component C? 1uf
+Added Member To Class: ClassName=ArtixBank14 Member=Component C? 100nf
+Added Member To Class: ClassName=ArtixBank14 Member=Component R? 10K
+Added Member To Class: ClassName=ArtixConfig Member=Component R? 22OHM
+Change Room Name: Old Name=BGA Room New Name=Power
+Change Room Scope: Old Scope=InComponentClass('ArtixBank15') New Scope=InComponentClass('Power')

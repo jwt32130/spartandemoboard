@@ -1,0 +1,150 @@
+Removed Pin From Net: NetName=NetU1_E8 Pin=U?-6
+Removed Member From Class: ClassName=ArtixBank15 Member=C?
+Removed Member From Class: ClassName=ArtixBank15 Member=R?
+Removed Member From Class: ClassName=ArtixConfig Member=U?
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=C? NewDesignator=C2
+Change Component Designator: OldDesignator=D? NewDesignator=D1
+Change Component Designator: OldDesignator=FB? NewDesignator=FB1
+Change Component Designator: OldDesignator=FB? NewDesignator=FB2
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=R? NewDesignator=R3
+Change Component Designator: OldDesignator=R? NewDesignator=R4
+Change Component Designator: OldDesignator=R? NewDesignator=R5
+Change Component Designator: OldDesignator=R? NewDesignator=R6
+Change Component Designator: OldDesignator=R? NewDesignator=R7
+Change Component Designator: OldDesignator=R? NewDesignator=R8
+Change Component Designator: OldDesignator=R? NewDesignator=R9
+Change Component Designator: OldDesignator=R? NewDesignator=R10
+Change Component Designator: OldDesignator=R? NewDesignator=R11
+Change Component Designator: OldDesignator=R? NewDesignator=R12
+Change Component Designator: OldDesignator=R? NewDesignator=R13
+Change Component Designator: OldDesignator=R? NewDesignator=R14
+Change Component Designator: OldDesignator=R? NewDesignator=R15
+Change Component Designator: OldDesignator=R? NewDesignator=R16
+Change Component Designator: OldDesignator=R? NewDesignator=R17
+Change Component Designator: OldDesignator=R? NewDesignator=R18
+Change Component Designator: OldDesignator=R? NewDesignator=R19
+Change Component Designator: OldDesignator=R? NewDesignator=R20
+Change Component Designator: OldDesignator=R? NewDesignator=R21
+Change Component Designator: OldDesignator=R? NewDesignator=R22
+Change Component Designator: OldDesignator=R? NewDesignator=R23
+Change Component Designator: OldDesignator=R? NewDesignator=R24
+Change Component Designator: OldDesignator=R? NewDesignator=R25
+Change Component Designator: OldDesignator=R? NewDesignator=R26
+Change Component Designator: OldDesignator=R? NewDesignator=R27
+Change Component Designator: OldDesignator=SW? NewDesignator=SW1
+Change Component Designator: OldDesignator=U? NewDesignator=U2
+Added Pin To Net: NetName=SRAM_A9 Pin=U1-A9
+Added Pin To Net: NetName=SRAM_A13 Pin=U1-A10
+Added Pin To Net: NetName=SRAM_A16 Pin=U1-A12
+Added Pin To Net: NetName=SRAM_A12 Pin=U1-A13
+Added Pin To Net: NetName=SRAM_A7 Pin=U1-A14
+Added Pin To Net: NetName=SRAM_A5 Pin=U1-A15
+Added Pin To Net: NetName=SRAM_A10 Pin=U1-A17
+Added Pin To Net: NetName=SRAM_A11 Pin=U1-B9
+Added Pin To Net: NetName=SRAM_WE Pin=U1-B10
+Added Pin To Net: NetName=SRAM_A15 Pin=U1-B11
+Added Pin To Net: NetName=SRAM_A14 Pin=U1-B12
+Added Pin To Net: NetName=SRAM_A6 Pin=U1-B14
+Added Pin To Net: NetName=SRAM_A4 Pin=U1-B15
+Added Pin To Net: NetName=SRAM_OE Pin=U1-B16
+Added Pin To Net: NetName=SRAM_DQ7 Pin=U1-B17
+Added Pin To Net: NetName=SRAM_C\S\1\ Pin=U1-C16
+Added Pin To Net: NetName=SRAM_DQ6 Pin=U1-C17
+Added Pin To Net: NetName=SRAM_DQ5 Pin=U1-C18
+Added Pin To Net: NetName=SRAM_A8 Pin=U1-D10
+Added Pin To Net: NetName=SRAM_DQ4 Pin=U1-D18
+Added Pin To Net: NetName=SRAM_DQ3 Pin=U1-E17
+Added Pin To Net: NetName=SRAM_DQ2 Pin=U1-E18
+Added Pin To Net: NetName=SRAM_DQ1 Pin=U1-F17
+Added Pin To Net: NetName=SRAM_DQ0 Pin=U1-F18
+Added Pin To Net: NetName=SRAM_A0 Pin=U1-G17
+Added Pin To Net: NetName=SRAM_A1 Pin=U1-H16
+Added Pin To Net: NetName=SRAM_A2 Pin=U1-H17
+Added Pin To Net: NetName=SRAM_A3 Pin=U1-H18
+Added Pin To Net: NetName=SRAM_A15 Pin=U2-7
+Change Net Name : Old Net Name=NetD?_2 New Net Name=NetD1_2
+Change Net Name : Old Net Name=NetFB?_1 New Net Name=NetFB1_1
+Change Net Name : Old Net Name=NetR?_2 New Net Name=NetR11_2
+Added Pin To Net: NetName=NetFB2_1 Pin=FB2-1
+Added Pin To Net: NetName=NetFB2_1 Pin=U1-J9
+Added Net: Name=NetFB2_1
+Added Pin To Net: NetName=NetJ1_4 Pin=R17-2
+Added Net: Name=NetJ1_4
+Added Pin To Net: NetName=NetJ1_6 Pin=R18-2
+Added Net: Name=NetJ1_6
+Added Pin To Net: NetName=NetJ1_10 Pin=R19-2
+Added Net: Name=NetJ1_10
+Added Pin To Net: NetName=NetJ1_14 Pin=R20-2
+Added Net: Name=NetJ1_14
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=NetR2_2 Pin=R3-1
+Added Pin To Net: NetName=NetR2_2 Pin=U2-6
+Added Net: Name=NetR2_2
+Added Pin To Net: NetName=NetR6_2 Pin=R6-2
+Added Pin To Net: NetName=NetR6_2 Pin=U1-T10
+Added Net: Name=NetR6_2
+Added Pin To Net: NetName=NetR7_2 Pin=R7-2
+Added Pin To Net: NetName=NetR7_2 Pin=U1-L15
+Added Net: Name=NetR7_2
+Added Pin To Net: NetName=NetR8_2 Pin=R8-2
+Added Pin To Net: NetName=NetR8_2 Pin=R14-1
+Added Net: Name=NetR8_2
+Added Pin To Net: NetName=NetR9_2 Pin=R9-2
+Added Pin To Net: NetName=NetR9_2 Pin=R15-1
+Added Net: Name=NetR9_2
+Added Pin To Net: NetName=NetR10_1 Pin=R10-1
+Added Pin To Net: NetName=NetR10_1 Pin=U1-T8
+Added Net: Name=NetR10_1
+Added Pin To Net: NetName=NetR11_1 Pin=R11-1
+Added Net: Name=NetR11_1
+Added Pin To Net: NetName=NetR12_1 Pin=R12-1
+Added Net: Name=NetR12_1
+Added Pin To Net: NetName=NetR12_2 Pin=R12-2
+Added Pin To Net: NetName=NetR12_2 Pin=U1-L17
+Added Net: Name=NetR12_2
+Added Pin To Net: NetName=NetR13_1 Pin=R13-1
+Added Pin To Net: NetName=NetR13_1 Pin=U1-E12
+Added Net: Name=NetR13_1
+Added Pin To Net: NetName=NetR14_2 Pin=R14-2
+Added Pin To Net: NetName=NetR14_2 Pin=U1-J15
+Added Net: Name=NetR14_2
+Added Pin To Net: NetName=NetR15_2 Pin=R15-2
+Added Pin To Net: NetName=NetR15_2 Pin=U1-J16
+Added Net: Name=NetR15_2
+Added Pin To Net: NetName=NetR16_2 Pin=R16-2
+Added Pin To Net: NetName=NetR16_2 Pin=U1-J18
+Added Net: Name=NetR16_2
+Added Pin To Net: NetName=NetR24_1 Pin=R24-1
+Added Pin To Net: NetName=NetR24_1 Pin=SW1-2
+Added Net: Name=NetR24_1
+Added Member To Class: ClassName=ArtixBank15 Member=Component C1 100nf
+Added Member To Class: ClassName=ArtixPower Member=Component FB2 600OHM 100Mhz
+Added Member To Class: ClassName=ArtixBank15 Member=Component R1 1K
+Added Member To Class: ClassName=ArtixBank15 Member=Component R2 1K
+Added Member To Class: ClassName=ArtixBank15 Member=Component R3 NC
+Added Member To Class: ClassName=ArtixConfig Member=Component R4 300OHM
+Added Member To Class: ClassName=ArtixConfig Member=Component R5 4.7K
+Added Member To Class: ClassName=ArtixConfig Member=Component R6 4.7K
+Added Member To Class: ClassName=ArtixConfig Member=Component R7 4.7K
+Added Member To Class: ClassName=ArtixConfig Member=Component R8 4.7K
+Added Member To Class: ClassName=ArtixConfig Member=Component R9 4.7K
+Added Member To Class: ClassName=ArtixConfig Member=Component R10 0OHM
+Added Member To Class: ClassName=ArtixConfig Member=Component R11 100OHM
+Added Member To Class: ClassName=ArtixConfig Member=Component R12 100OHM
+Added Member To Class: ClassName=ArtixConfig Member=Component R14 100OHM
+Added Member To Class: ClassName=ArtixConfig Member=Component R15 100OHM
+Added Member To Class: ClassName=ArtixConfig Member=Component R16 1K
+Added Member To Class: ClassName=ArtixConfig Member=Component R17 0OHM
+Added Member To Class: ClassName=ArtixConfig Member=Component R18 0OHM
+Added Member To Class: ClassName=ArtixConfig Member=Component R19 0OHM
+Added Member To Class: ClassName=ArtixConfig Member=Component R20 0OHM
+Added Member To Class: ClassName=ArtixConfig Member=Component R21 1K
+Added Member To Class: ClassName=ArtixConfig Member=Component R22 NC
+Added Member To Class: ClassName=ArtixConfig Member=Component R23 NC
+Added Member To Class: ClassName=ArtixConfig Member=Component R24 100OHM
+Added Member To Class: ClassName=ArtixConfig Member=Component R25 NC
+Added Member To Class: ClassName=ArtixConfig Member=Component R26 1K
+Added Member To Class: ClassName=ArtixConfig Member=Component R27 1K

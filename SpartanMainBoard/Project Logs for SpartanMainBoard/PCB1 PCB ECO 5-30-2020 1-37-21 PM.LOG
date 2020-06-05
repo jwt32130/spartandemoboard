@@ -1,0 +1,8 @@
+Change Physical Footprint: Designator=C1 Old Footprint=0402Footprint New Footprint=0402Footprint
+Change Physical Footprint: Designator=FB? Old Footprint=0805 New Footprint=0805
+Change Physical Footprint: Designator=FB? Old Footprint=0805 New Footprint=0805
+Change Physical Footprint: Designator=R1 Old Footprint=RES_CRCW_0402 New Footprint=RES_CRCW_0402
+Change Physical Footprint: Designator=R2 Old Footprint=RES_CRCW_0402 New Footprint=RES_CRCW_0402
+Change Physical Footprint: Designator=R3 Old Footprint=RES_CRCW_0402 New Footprint=RES_CRCW_0402
+Change Physical Footprint: Designator=U1 Old Footprint=BGA324C80P18X18_1500X1500X150 New Footprint=BGA324C80P18X18_1500X1500X150
+Change Physical Footprint: Designator=U2 Old Footprint=32L_STSOP-1_H_IS New Footprint=32L_STSOP-1_H_IS
