@@ -1,0 +1,20 @@
+Removed Member From Class: ClassName=ArtixConfig Member=C4
+Removed Member From Class: ClassName=ArtixConfig Member=R33
+Removed Member From Class: ClassName=ArtixBank14 Member=U4
+Added Component: Designator=J4(CUI_PJ-002A)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CUI_purchase_URL"; Value = "https://www.cui.com/product/interconnect/dc-power-connectors/jacks/2.0-mm-center-pin/pj-002a?utm_source=snapeda.com&utm_medium=referral&utm_campaign=snapedaBOM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "CP-002A-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Purchase_URL"; Value = "https://www.digikey.com/product-detail/en/cui-inc/PJ-002A/CP-002A-ND/96962?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "CUI Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "PJ-002A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/PJ-002A/CUI%20Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=J4-1
+Added Pin To Net: NetName=GND Pin=J4-2
+Added Pin To Net: NetName=GND Pin=J4-3
+Added Member To Class: ClassName=ArtixConfig Member=Component C7 100nf
+Added Member To Class: ClassName=Power Member=Component J4 PJ-002A
+Added Member To Class: ClassName=ArtixConfig Member=Component R28 22OHM
+Added Member To Class: ClassName=ArtixBank14 Member=Component U2 MT25QL256ABA8ESF-0SIT

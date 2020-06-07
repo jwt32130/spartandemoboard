@@ -1,0 +1,371 @@
+Removed Pin From Net: NetName=LCD_DB1 Pin=U1-J14
+Removed Pin From Net: NetName=LCD_DB2 Pin=U1-K15
+Removed Pin From Net: NetName=LCD_DB3 Pin=U1-L14
+Removed Pin From Net: NetName=LCD_DB17 Pin=U1-M14
+Removed Pin From Net: NetName=LCD_DB5 Pin=U1-M15
+Removed Pin From Net: NetName=LCD_DB4 Pin=U1-M16
+Removed Pin From Net: NetName=LCD_CS Pin=U1-M17
+Removed Pin From Net: NetName=LCD_DB11 Pin=U1-N14
+Removed Pin From Net: NetName=LCD_DB10 Pin=U1-N16
+Removed Pin From Net: NetName=LCD_WR Pin=U1-N17
+Removed Pin From Net: NetName=LCD_RS Pin=U1-N18
+Removed Pin From Net: NetName=LCD_DB16 Pin=U1-P14
+Removed Pin From Net: NetName=LCD_DB13 Pin=U1-P15
+Removed Pin From Net: NetName=LCD_DB12 Pin=U1-P16
+Removed Pin From Net: NetName=LCD_RD Pin=U1-P18
+Removed Pin From Net: NetName=LCD_DB8 Pin=U1-R13
+Removed Pin From Net: NetName=LCD_DB15 Pin=U1-R15
+Removed Pin From Net: NetName=LCD_DB14 Pin=U1-R16
+Removed Pin From Net: NetName=LCD_RST Pin=U1-R17
+Removed Pin From Net: NetName=LCD_IM0 Pin=U1-R18
+Removed Pin From Net: NetName=LCD_DB7 Pin=U1-T13
+Removed Pin From Net: NetName=LCD_DB6 Pin=U1-T14
+Removed Pin From Net: NetName=100MHZCLK Pin=X?-3
+Removed Member From Class: ClassName=ArtixBank14 Member=C?
+Removed Member From Class: ClassName=ArtixPower Member=C?
+Removed Member From Class: ClassName=Power Member=C?
+Removed Member From Class: ClassName=ArtixBank14 Member=R?
+Removed Member From Class: ClassName=Power Member=R?
+Removed Member From Class: ClassName=Power Member=U?
+Change Component Designator: OldDesignator=C? NewDesignator=C3
+Change Component Designator: OldDesignator=C? NewDesignator=C4
+Change Component Designator: OldDesignator=C? NewDesignator=C5
+Change Component Designator: OldDesignator=C? NewDesignator=C6
+Change Component Designator: OldDesignator=C? NewDesignator=C7
+Change Component Designator: OldDesignator=C? NewDesignator=C8
+Change Component Designator: OldDesignator=C? NewDesignator=C9
+Change Component Designator: OldDesignator=C? NewDesignator=C10
+Change Component Designator: OldDesignator=C? NewDesignator=C11
+Change Component Designator: OldDesignator=C? NewDesignator=C12
+Change Component Designator: OldDesignator=C? NewDesignator=C13
+Change Component Designator: OldDesignator=C? NewDesignator=C14
+Change Component Designator: OldDesignator=C? NewDesignator=C15
+Change Component Designator: OldDesignator=C? NewDesignator=C16
+Change Component Designator: OldDesignator=C? NewDesignator=C17
+Change Component Designator: OldDesignator=C? NewDesignator=C18
+Change Component Designator: OldDesignator=C? NewDesignator=C19
+Change Component Designator: OldDesignator=C? NewDesignator=C20
+Change Component Designator: OldDesignator=C? NewDesignator=C21
+Change Component Designator: OldDesignator=C? NewDesignator=C22
+Change Component Designator: OldDesignator=C? NewDesignator=C23
+Change Component Designator: OldDesignator=D? NewDesignator=D2
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=R? NewDesignator=R3
+Change Component Designator: OldDesignator=R? NewDesignator=R24
+Change Component Designator: OldDesignator=R? NewDesignator=R28
+Change Component Designator: OldDesignator=R? NewDesignator=R29
+Change Component Designator: OldDesignator=R? NewDesignator=R30
+Change Component Designator: OldDesignator=R? NewDesignator=R31
+Change Component Designator: OldDesignator=R? NewDesignator=R32
+Change Component Designator: OldDesignator=R? NewDesignator=R33
+Change Component Designator: OldDesignator=R? NewDesignator=R34
+Change Component Designator: OldDesignator=U? NewDesignator=U2
+Change Component Designator: OldDesignator=U? NewDesignator=U4
+Change Component Designator: OldDesignator=X? NewDesignator=X1
+Added Component: Designator=C24(0402Footprint)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J2(TFM-110-01-L-S-RA)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J3(TFM-110-01-L-S-RA)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R35(RES_CRCW_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Component: Designator=R36(RES_CRCW_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Component: Designator=R37(RES_CRCW_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Component: Designator=R38(RES_CRCW_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Component: Designator=R39(RES_CRCW_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Component: Designator=R40(RES_CRCW_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Component: Designator=R41(RES_CRCW_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Component: Designator=R42(RES_CRCW_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Component: Designator=R43(RES_CRCW_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Component: Designator=R44(RES_CRCW_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Component: Designator=R45(RES_CRCW_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Component: Designator=R46(RES_CRCW_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Component: Designator=R47(RES_CRCW_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Component: Designator=R48(RES_CRCW_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Component: Designator=R49(RES_CRCW_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Component: Designator=R50(RES_CRCW_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Component: Designator=R51(RES_CRCW_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Component: Designator=R52(RES_CRCW_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Component: Designator=R53(RES_CRCW_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Component: Designator=R54(RES_CRCW_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Component: Designator=R55(RES_CRCW_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Component: Designator=R56(RES_CRCW_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Component: Designator=R57(RES_CRCW_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Component: Designator=R58(RES_CRCW_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3V3 Pin=C24-1
+Added Pin To Net: NetName=GND Pin=C24-2
+Added Pin To Net: NetName=LCD_CS Pin=R35-2
+Added Pin To Net: NetName=LCD_RS Pin=R36-2
+Added Pin To Net: NetName=LCD_WR Pin=R37-2
+Added Pin To Net: NetName=LCD_RD Pin=R38-2
+Added Pin To Net: NetName=LCD_IM0 Pin=R39-2
+Added Pin To Net: NetName=LCD_RST Pin=R40-2
+Added Pin To Net: NetName=LCD_DB1 Pin=R41-2
+Added Pin To Net: NetName=LCD_DB2 Pin=R42-2
+Added Pin To Net: NetName=LCD_DB3 Pin=R43-2
+Added Pin To Net: NetName=LCD_DB4 Pin=R44-2
+Added Pin To Net: NetName=LCD_DB5 Pin=R45-2
+Added Pin To Net: NetName=LCD_DB16 Pin=R46-1
+Added Pin To Net: NetName=LCD_DB10 Pin=R47-2
+Added Pin To Net: NetName=LCD_DB17 Pin=R48-1
+Added Pin To Net: NetName=LCD_DB11 Pin=R49-2
+Added Pin To Net: NetName=LCD_DB6 Pin=R50-1
+Added Pin To Net: NetName=LCD_DB12 Pin=R51-2
+Added Pin To Net: NetName=LCD_DB7 Pin=R52-1
+Added Pin To Net: NetName=LCD_DB13 Pin=R53-2
+Added Pin To Net: NetName=LCD_DB8 Pin=R54-1
+Added Pin To Net: NetName=LCD_DB14 Pin=R55-2
+Added Pin To Net: NetName=LCD_DB15 Pin=R56-2
+Added Pin To Net: NetName=+3V3 Pin=R57-1
+Added Pin To Net: NetName=100MHZCLK Pin=R58-1
+Added Pin To Net: NetName=GND Pin=X1-2
+Added Pin To Net: NetName=+3V3 Pin=X1-4
+Change Net Name : Old Net Name=NetC?_1 New Net Name=NetC7_1
+Change Net Name : Old Net Name=NetC?_2 New Net Name=NetC7_2
+Change Net Name : Old Net Name=NetR?_2 New Net Name=NetR29_2
+Added Pin To Net: NetName=NetC14_2 Pin=C14-2
+Added Pin To Net: NetName=NetC14_2 Pin=U4-A6
+Added Net: Name=NetC14_2
+Added Pin To Net: NetName=NetC17_2 Pin=C17-2
+Added Pin To Net: NetName=NetC17_2 Pin=U4-D6
+Added Net: Name=NetC17_2
+Added Pin To Net: NetName=NetC20_2 Pin=C20-2
+Added Pin To Net: NetName=NetC20_2 Pin=U4-G6
+Added Net: Name=NetC20_2
+Added Pin To Net: NetName=NetC23_2 Pin=C23-2
+Added Pin To Net: NetName=NetC23_2 Pin=U4-K6
+Added Net: Name=NetC23_2
+Added Pin To Net: NetName=NetR30_2 Pin=R30-2
+Added Pin To Net: NetName=NetR30_2 Pin=U4-D7
+Added Net: Name=NetR30_2
+Added Pin To Net: NetName=NetR31_2 Pin=R31-2
+Added Pin To Net: NetName=NetR31_2 Pin=U4-G7
+Added Net: Name=NetR31_2
+Added Pin To Net: NetName=NetR32_2 Pin=R32-2
+Added Pin To Net: NetName=NetR32_2 Pin=U4-J7
+Added Net: Name=NetR32_2
+Added Pin To Net: NetName=NetR35_1 Pin=R35-1
+Added Pin To Net: NetName=NetR35_1 Pin=U1-M17
+Added Net: Name=NetR35_1
+Added Pin To Net: NetName=NetR36_1 Pin=R36-1
+Added Pin To Net: NetName=NetR36_1 Pin=U1-N18
+Added Net: Name=NetR36_1
+Added Pin To Net: NetName=NetR37_1 Pin=R37-1
+Added Pin To Net: NetName=NetR37_1 Pin=U1-N17
+Added Net: Name=NetR37_1
+Added Pin To Net: NetName=NetR38_1 Pin=R38-1
+Added Pin To Net: NetName=NetR38_1 Pin=U1-P18
+Added Net: Name=NetR38_1
+Added Pin To Net: NetName=NetR39_1 Pin=R39-1
+Added Pin To Net: NetName=NetR39_1 Pin=U1-R18
+Added Net: Name=NetR39_1
+Added Pin To Net: NetName=NetR40_1 Pin=R40-1
+Added Pin To Net: NetName=NetR40_1 Pin=U1-R17
+Added Net: Name=NetR40_1
+Added Pin To Net: NetName=NetR41_1 Pin=R41-1
+Added Pin To Net: NetName=NetR41_1 Pin=U1-J14
+Added Net: Name=NetR41_1
+Added Pin To Net: NetName=NetR42_1 Pin=R42-1
+Added Pin To Net: NetName=NetR42_1 Pin=U1-K15
+Added Net: Name=NetR42_1
+Added Pin To Net: NetName=NetR43_1 Pin=R43-1
+Added Pin To Net: NetName=NetR43_1 Pin=U1-L14
+Added Net: Name=NetR43_1
+Added Pin To Net: NetName=NetR44_1 Pin=R44-1
+Added Pin To Net: NetName=NetR44_1 Pin=U1-M16
+Added Net: Name=NetR44_1
+Added Pin To Net: NetName=NetR45_1 Pin=R45-1
+Added Pin To Net: NetName=NetR45_1 Pin=U1-M15
+Added Net: Name=NetR45_1
+Added Pin To Net: NetName=NetR46_2 Pin=R46-2
+Added Pin To Net: NetName=NetR46_2 Pin=U1-P14
+Added Net: Name=NetR46_2
+Added Pin To Net: NetName=NetR47_1 Pin=R47-1
+Added Pin To Net: NetName=NetR47_1 Pin=U1-N16
+Added Net: Name=NetR47_1
+Added Pin To Net: NetName=NetR48_2 Pin=R48-2
+Added Pin To Net: NetName=NetR48_2 Pin=U1-M14
+Added Net: Name=NetR48_2
+Added Pin To Net: NetName=NetR49_1 Pin=R49-1
+Added Pin To Net: NetName=NetR49_1 Pin=U1-N14
+Added Net: Name=NetR49_1
+Added Pin To Net: NetName=NetR50_2 Pin=R50-2
+Added Pin To Net: NetName=NetR50_2 Pin=U1-T14
+Added Net: Name=NetR50_2
+Added Pin To Net: NetName=NetR51_1 Pin=R51-1
+Added Pin To Net: NetName=NetR51_1 Pin=U1-P16
+Added Net: Name=NetR51_1
+Added Pin To Net: NetName=NetR52_2 Pin=R52-2
+Added Pin To Net: NetName=NetR52_2 Pin=U1-T13
+Added Net: Name=NetR52_2
+Added Pin To Net: NetName=NetR53_1 Pin=R53-1
+Added Pin To Net: NetName=NetR53_1 Pin=U1-P15
+Added Net: Name=NetR53_1
+Added Pin To Net: NetName=NetR54_2 Pin=R54-2
+Added Pin To Net: NetName=NetR54_2 Pin=U1-R13
+Added Net: Name=NetR54_2
+Added Pin To Net: NetName=NetR55_1 Pin=R55-1
+Added Pin To Net: NetName=NetR55_1 Pin=U1-R16
+Added Net: Name=NetR55_1
+Added Pin To Net: NetName=NetR56_1 Pin=R56-1
+Added Pin To Net: NetName=NetR56_1 Pin=U1-R15
+Added Net: Name=NetR56_1
+Added Pin To Net: NetName=NetR57_2 Pin=R57-2
+Added Pin To Net: NetName=NetR57_2 Pin=X1-1
+Added Net: Name=NetR57_2
+Added Pin To Net: NetName=NetR58_2 Pin=R58-2
+Added Pin To Net: NetName=NetR58_2 Pin=X1-3
+Added Net: Name=NetR58_2
+Added Class: Name=ArtixBank34
+Added Member To Class: ClassName=ArtixBank14 Member=Component C3 100nf
+Added Member To Class: ClassName=ArtixBank14 Member=Component C4 1uf
+Added Member To Class: ClassName=ArtixBank14 Member=Component C5 1uf
+Added Member To Class: ClassName=ArtixBank14 Member=Component C6 1uf
+Added Member To Class: ClassName=ArtixPower Member=Component C8 100uf
+Added Member To Class: ClassName=ArtixPower Member=Component C9 4.7uf
+Added Member To Class: ClassName=ArtixPower Member=Component C10 0.47uf
+Added Member To Class: ClassName=ArtixPower Member=Component C11 0.47uf
+Added Member To Class: ClassName=Power Member=Component C12 10uf
+Added Member To Class: ClassName=Power Member=Component C13 47uf
+Added Member To Class: ClassName=Power Member=Component C14 100nf
+Added Member To Class: ClassName=Power Member=Component C15 10uf
+Added Member To Class: ClassName=Power Member=Component C16 47uf
+Added Member To Class: ClassName=Power Member=Component C17 100nf
+Added Member To Class: ClassName=Power Member=Component C18 10uf
+Added Member To Class: ClassName=Power Member=Component C19 47uf
+Added Member To Class: ClassName=Power Member=Component C20 100nf
+Added Member To Class: ClassName=Power Member=Component C21 10uf
+Added Member To Class: ClassName=Power Member=Component C22 47uf
+Added Member To Class: ClassName=Power Member=Component C23 100nf
+Added Member To Class: ClassName=ArtixBank14 Member=Component C24 100nf
+Added Member To Class: ClassName=ArtixBank14 Member=Component R2 10K
+Added Member To Class: ClassName=ArtixBank14 Member=Component R3 10K
+Added Member To Class: ClassName=ArtixConfig Member=Component R24 22OHM
+Added Member To Class: ClassName=Power Member=Component R29 30.1K
+Added Member To Class: ClassName=Power Member=Component R30 90.9K
+Added Member To Class: ClassName=Power Member=Component R31 13.3K
+Added Member To Class: ClassName=Power Member=Component R32 14.5K
+Added Member To Class: ClassName=Power Member=Component R33 100K
+Added Member To Class: ClassName=Power Member=Component R34 100K
+Added Member To Class: ClassName=ArtixBank14 Member=Component R35 200
+Added Member To Class: ClassName=ArtixBank14 Member=Component R36 200
+Added Member To Class: ClassName=ArtixBank14 Member=Component R37 200
+Added Member To Class: ClassName=ArtixBank14 Member=Component R38 200
+Added Member To Class: ClassName=ArtixBank14 Member=Component R39 200
+Added Member To Class: ClassName=ArtixBank14 Member=Component R40 200
+Added Member To Class: ClassName=ArtixBank14 Member=Component R41 200
+Added Member To Class: ClassName=ArtixBank14 Member=Component R42 200
+Added Member To Class: ClassName=ArtixBank14 Member=Component R43 200
+Added Member To Class: ClassName=ArtixBank14 Member=Component R44 200
+Added Member To Class: ClassName=ArtixBank14 Member=Component R45 200
+Added Member To Class: ClassName=ArtixBank14 Member=Component R46 200
+Added Member To Class: ClassName=ArtixBank14 Member=Component R47 200
+Added Member To Class: ClassName=ArtixBank14 Member=Component R48 200
+Added Member To Class: ClassName=ArtixBank14 Member=Component R49 200
+Added Member To Class: ClassName=ArtixBank14 Member=Component R50 200
+Added Member To Class: ClassName=ArtixBank14 Member=Component R51 200
+Added Member To Class: ClassName=ArtixBank14 Member=Component R52 200
+Added Member To Class: ClassName=ArtixBank14 Member=Component R53 200
+Added Member To Class: ClassName=ArtixBank14 Member=Component R54 200
+Added Member To Class: ClassName=ArtixBank14 Member=Component R55 200
+Added Member To Class: ClassName=ArtixBank14 Member=Component R56 200
+Added Member To Class: ClassName=ArtixBank14 Member=Component R57 1K
+Added Member To Class: ClassName=ArtixBank14 Member=Component R58 0OHM
+Added Member To Class: ClassName=Power Member=Component U4 LTM4643

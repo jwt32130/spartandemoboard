@@ -1,0 +1,8 @@
+Replace Part C8 100uf_1206 in E:\HardwareProjects\SpartanDemo\SpartanMainBoard\ArtixPower.SchDoc with 100uf_1206 from Capacitors.IntLib
+Replace Part C9 4.7uf_0402 in E:\HardwareProjects\SpartanDemo\SpartanMainBoard\ArtixPower.SchDoc with 4.7uf_0402 from Capacitors.IntLib
+Replace Part C10 0.47uf_0402 in E:\HardwareProjects\SpartanDemo\SpartanMainBoard\ArtixPower.SchDoc with 0.47uf_0402 from Capacitors.IntLib
+Replace Part C11 0.47uf_0402 in E:\HardwareProjects\SpartanDemo\SpartanMainBoard\ArtixPower.SchDoc with 0.47uf_0402 from Capacitors.IntLib
+Replace Part FB1 HZ0805E601R-10 in E:\HardwareProjects\SpartanDemo\SpartanMainBoard\ArtixPower.SchDoc with HZ0805E601R-10 from Inductors.IntLib
+Replace Part FB2 HZ0805E601R-10 in E:\HardwareProjects\SpartanDemo\SpartanMainBoard\ArtixPower.SchDoc with HZ0805E601R-10 from Inductors.IntLib
+Replace Part U1 XC7A12T_1CSG325I in E:\HardwareProjects\SpartanDemo\SpartanMainBoard\ArtixPower.SchDoc with XC7A12T_1CSG325I from XC7A12T_1CPG238I.IntLib
+Replace Part U1 XC7A12T_1CSG325I in E:\HardwareProjects\SpartanDemo\SpartanMainBoard\ArtixPower.SchDoc with XC7A12T_1CSG325I from XC7A12T_1CPG238I.IntLib
