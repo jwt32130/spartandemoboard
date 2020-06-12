@@ -1,0 +1,44 @@
+Added Component: Designator=J5(TE_3-1734592-7)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey-Purchase-URL"; Value = "https://snapeda.com/shop?store=DigiKey&id=4788466"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "3-1734592-7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/3-1734592-7/TE%20Connectivity/view-part/4788466/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=LCD_DB1 Pin=J5-1
+Added Pin To Net: NetName=LCD_DB2 Pin=J5-2
+Added Pin To Net: NetName=LCD_DB3 Pin=J5-3
+Added Pin To Net: NetName=LCD_DB4 Pin=J5-4
+Added Pin To Net: NetName=GND Pin=J5-5
+Added Pin To Net: NetName=NetC4_1 Pin=J5-6
+Added Pin To Net: NetName=LCD_CS Pin=J5-7
+Added Pin To Net: NetName=LCD_RS Pin=J5-8
+Added Pin To Net: NetName=LCD_WR Pin=J5-9
+Added Pin To Net: NetName=LCD_RD Pin=J5-10
+Added Pin To Net: NetName=LCD_IM0 Pin=J5-11
+Added Pin To Net: NetName=+3V1 Pin=J5-16
+Added Pin To Net: NetName=GND Pin=J5-17
+Added Pin To Net: NetName=GND Pin=J5-18
+Added Pin To Net: NetName=GND Pin=J5-19
+Added Pin To Net: NetName=GND Pin=J5-20
+Added Pin To Net: NetName=LCD_DB5 Pin=J5-22
+Added Pin To Net: NetName=LCD_DB10 Pin=J5-23
+Added Pin To Net: NetName=LCD_DB11 Pin=J5-24
+Added Pin To Net: NetName=LCD_DB12 Pin=J5-25
+Added Pin To Net: NetName=LCD_DB13 Pin=J5-26
+Added Pin To Net: NetName=LCD_DB14 Pin=J5-27
+Added Pin To Net: NetName=LCD_DB15 Pin=J5-28
+Added Pin To Net: NetName=LCD_DB16 Pin=J5-29
+Added Pin To Net: NetName=LCD_DB17 Pin=J5-30
+Added Pin To Net: NetName=LCD_RST Pin=J5-31
+Added Pin To Net: NetName=+3V3 Pin=J5-32
+Added Pin To Net: NetName=+3V3 Pin=J5-33
+Added Pin To Net: NetName=GND Pin=J5-34
+Added Pin To Net: NetName=LCD_DB6 Pin=J5-35
+Added Pin To Net: NetName=LCD_DB7 Pin=J5-36
+Added Pin To Net: NetName=LCD_DB8 Pin=J5-37
+Added Pin To Net: NetName=GND Pin=J5-S1
+Added Pin To Net: NetName=GND Pin=J5-S2
+Added Member To Class: ClassName=ArtixBank14 Member=Component J5 3-1734592-7
