@@ -1,0 +1,7 @@
+Replace Part C59 47uf_0805 in E:\HardwareProjects\SpartanDemo\SpartanMainBoard\ArtixBank34.SchDoc with 47uf_0805 from Capacitors.IntLib
+Replace Part J2 SFM-110-02-L-S in E:\HardwareProjects\SpartanDemo\SpartanMainBoard\ArtixBank34.SchDoc with SFM-110-02-L-S from Connectors.IntLib
+Replace Part J3 SFM-110-02-L-S in E:\HardwareProjects\SpartanDemo\SpartanMainBoard\ArtixBank34.SchDoc with SFM-110-02-L-S from Connectors.IntLib
+Replace Part R64 NC_0402 in E:\HardwareProjects\SpartanDemo\SpartanMainBoard\ArtixBank34.SchDoc with NC_0402 from Resistors.IntLib
+Replace Part R65 NC_0402 in E:\HardwareProjects\SpartanDemo\SpartanMainBoard\ArtixBank34.SchDoc with NC_0402 from Resistors.IntLib
+Replace Part R66 10K_0402 in E:\HardwareProjects\SpartanDemo\SpartanMainBoard\ArtixBank34.SchDoc with 10K_0402 from Resistors.IntLib
+Replace Part U1 XC7A12T_1CSG325I in E:\HardwareProjects\SpartanDemo\SpartanMainBoard\ArtixBank34.SchDoc with XC7A12T_1CSG325I from XC7A12T_1CPG238I.IntLib

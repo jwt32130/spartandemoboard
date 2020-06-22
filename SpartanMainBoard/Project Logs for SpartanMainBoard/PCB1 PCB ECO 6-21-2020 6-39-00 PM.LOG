@@ -1,0 +1,6 @@
+Added Component: Designator=R67(RES_CRCW_0402)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR16_2 Pin=R67-1
+Added Pin To Net: NetName=GND Pin=R67-2
+Added Member To Class: ClassName=ArtixConfig Member=Component R67 NC

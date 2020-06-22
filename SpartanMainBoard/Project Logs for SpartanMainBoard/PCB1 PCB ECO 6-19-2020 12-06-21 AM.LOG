@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=BOLO_D1 Pin=U1-N2
+Added Pin To Net: NetName=BOLO_D2 Pin=U1-P1
+Added Pin To Net: NetName=BOLO_D4 Pin=U1-R1
+Added Pin To Net: NetName=BOLO_D5 Pin=U1-R2
+Added Pin To Net: NetName=BOLO_D7 Pin=U1-T2

@@ -1,0 +1,65 @@
+Change Component Footprint: Designator=J2 Old Footprint=TFM-110-01-L-S-RA New Footprint=SFM-110-02-L-S
+Change Component Footprint: Designator=J3 Old Footprint=TFM-110-01-L-S-RA New Footprint=SFM-110-02-L-S
+Change Component Comment : Designator=J2 Old Comment=TFM-110-01-L-S-RA New Comment=SFM-110-02-L-S
+Change Component Comment : Designator=J3 Old Comment=TFM-110-01-L-S-RA New Comment=SFM-110-02-L-S
+Added Component: Designator=C59(0805FOOTPRINT)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R64(RES_CRCW_0402)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R65(RES_CRCW_0402)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R66(RES_CRCW_0402)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "CRCW040210K0FKED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=C59-1
+Added Pin To Net: NetName=GND Pin=C59-2
+Added Pin To Net: NetName=+5 Pin=J2-1
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=GND Pin=J3-3
+Added Pin To Net: NetName=GND Pin=J3-7
+Added Pin To Net: NetName=+1V8 Pin=R64-1
+Added Pin To Net: NetName=+1V8 Pin=R65-1
+Added Pin To Net: NetName=GND Pin=R66-2
+Added Pin To Net: NetName=BOLO_D0 Pin=J3-1
+Added Net: Name=BOLO_D0
+Added Pin To Net: NetName=BOLO_D1 Pin=J3-2
+Added Net: Name=BOLO_D1
+Added Pin To Net: NetName=BOLO_D2 Pin=J3-4
+Added Net: Name=BOLO_D2
+Added Pin To Net: NetName=BOLO_D3 Pin=J3-5
+Added Net: Name=BOLO_D3
+Added Pin To Net: NetName=BOLO_D4 Pin=J3-6
+Added Net: Name=BOLO_D4
+Added Pin To Net: NetName=BOLO_D5 Pin=J3-8
+Added Net: Name=BOLO_D5
+Added Pin To Net: NetName=BOLO_D6 Pin=J3-9
+Added Net: Name=BOLO_D6
+Added Pin To Net: NetName=BOLO_D7 Pin=J3-10
+Added Net: Name=BOLO_D7
+Added Pin To Net: NetName=BOLO_LSYNC Pin=J2-6
+Added Net: Name=BOLO_LSYNC
+Added Pin To Net: NetName=BOLO_MCLK Pin=J2-10
+Added Net: Name=BOLO_MCLK
+Added Pin To Net: NetName=BOLO_PCLK Pin=J2-8
+Added Net: Name=BOLO_PCLK
+Added Pin To Net: NetName=BOLO_RESET Pin=J2-5
+Added Pin To Net: NetName=BOLO_RESET Pin=R66-1
+Added Net: Name=BOLO_RESET
+Added Pin To Net: NetName=BOLO_SCL Pin=J2-4
+Added Pin To Net: NetName=BOLO_SCL Pin=R64-2
+Added Net: Name=BOLO_SCL
+Added Pin To Net: NetName=BOLO_SDA Pin=J2-3
+Added Pin To Net: NetName=BOLO_SDA Pin=R65-2
+Added Net: Name=BOLO_SDA
+Added Pin To Net: NetName=BOLO_TRIG Pin=J2-9
+Added Net: Name=BOLO_TRIG
+Added Pin To Net: NetName=BOLO_VSYNC Pin=J2-7
+Added Net: Name=BOLO_VSYNC
+Added Member To Class: ClassName=ArtixBank34 Member=Component C59 47uf
+Added Member To Class: ClassName=ArtixBank34 Member=Component R64 NC
+Added Member To Class: ClassName=ArtixBank34 Member=Component R65 NC
+Added Member To Class: ClassName=ArtixBank34 Member=Component R66 10K

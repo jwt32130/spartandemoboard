@@ -1,0 +1,6 @@
+Change Net Name : Old Net Name=NetC13_2 New Net Name=+1V8Reg
+Change Net Name : Old Net Name=NetC16_2 New Net Name=+1V0Reg
+Change Net Name : Old Net Name=NetC19_2 New Net Name=+3V3Reg
+Change Net Name : Old Net Name=NetC22_2 New Net Name=+3V1Reg
+Change Room Name: Old Name=XBGA New Name=Power
+Change Room Scope: Old Scope=InComponentClass('Room Definition 1') New Scope=InComponentClass('Power')

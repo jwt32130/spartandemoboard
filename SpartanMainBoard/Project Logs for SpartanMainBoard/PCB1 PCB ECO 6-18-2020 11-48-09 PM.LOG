@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=BOLO_SCL Pin=U1-J4
+Added Pin To Net: NetName=BOLO_LSYNC Pin=U1-K1
+Added Pin To Net: NetName=BOLO_PCLK Pin=U1-K2
+Added Pin To Net: NetName=BOLO_MCLK Pin=U1-K3

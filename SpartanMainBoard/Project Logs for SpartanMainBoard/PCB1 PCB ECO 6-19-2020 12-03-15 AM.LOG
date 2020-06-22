@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=BOLO_TRIG Pin=U1-L2
+Added Pin To Net: NetName=BOLO_VSYNC Pin=U1-M1
+Added Pin To Net: NetName=BOLO_RESET Pin=U1-M2
+Added Pin To Net: NetName=BOLO_SDA Pin=U1-N1

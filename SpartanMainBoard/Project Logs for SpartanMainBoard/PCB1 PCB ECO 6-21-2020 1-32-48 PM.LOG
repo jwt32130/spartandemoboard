@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=1V0Good Pin=R34-2
+Removed Pin From Net: NetName=1V0Good Pin=U4-C2
+Removed Pin From Net: NetName=1V0Good Pin=U4-C6
+Change Net Name : Old Net Name=1V0Good New Net Name=1V8Good
+Added Pin To Net: NetName=1V0Good Pin=R34-2
+Added Pin To Net: NetName=1V0Good Pin=U4-C2
+Added Pin To Net: NetName=1V0Good Pin=U4-C6
+Added Net: Name=1V0Good
