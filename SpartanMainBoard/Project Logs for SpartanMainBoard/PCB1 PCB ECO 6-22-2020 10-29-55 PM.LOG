@@ -1,0 +1,42 @@
+Added Component: Designator=C60(0402Footprint)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J6(SAMTEC-HTSW-106-07-X-S)
+Added Component: Designator=R68(RES_CRCW_0402)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Component: Designator=U5(SOP50P310X90-8N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SN74LVC2G241DCUR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "VFSOP-8 Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SN74LVC2G241DCUR/Texas%20Instruments/view-part/278306/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3V3 Pin=C60-1
+Added Pin To Net: NetName=GND Pin=C60-2
+Added Pin To Net: NetName=GND Pin=J6-1
+Added Pin To Net: NetName=GND Pin=R68-2
+Added Pin To Net: NetName=GND Pin=U5-1
+Added Pin To Net: NetName=GND Pin=U5-4
+Added Pin To Net: NetName=+3V3 Pin=U5-7
+Added Pin To Net: NetName=+3V3 Pin=U5-8
+Added Pin To Net: NetName=B_UART0_RX Pin=J6-4
+Added Pin To Net: NetName=B_UART0_RX Pin=R68-1
+Added Pin To Net: NetName=B_UART0_RX Pin=U5-2
+Added Net: Name=B_UART0_RX
+Added Pin To Net: NetName=B_UART0_TX Pin=J6-5
+Added Pin To Net: NetName=B_UART0_TX Pin=U5-3
+Added Net: Name=B_UART0_TX
+Added Pin To Net: NetName=UART0_RX Pin=U1-U17
+Added Pin To Net: NetName=UART0_RX Pin=U5-6
+Added Net: Name=UART0_RX
+Added Pin To Net: NetName=UART0_TX Pin=U1-V17
+Added Pin To Net: NetName=UART0_TX Pin=U5-5
+Added Net: Name=UART0_TX
+Added Member To Class: ClassName=ArtixBank14 Member=Component C60 100nf
+Added Member To Class: ClassName=ArtixBank14 Member=Component J6 SAMTEC-HTSW-106-07-X-SJ
+Added Member To Class: ClassName=ArtixBank14 Member=Component R68 100K
+Added Member To Class: ClassName=ArtixBank14 Member=Component U5 SN74LVC2G241DCUR
+Change Room Name: Old Name=XBGA New Name=Power

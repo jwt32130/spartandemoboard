@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=GND Pin=U4-B6
+Removed Pin From Net: NetName=GND Pin=U4-E6
+Removed Pin From Net: NetName=GND Pin=U4-H6
+Removed Pin From Net: NetName=GND Pin=U4-L6
+Added Pin To Net: NetName=NetU4_B6 Pin=U4-B6
+Added Pin To Net: NetName=NetU4_B6 Pin=U4-C4
+Added Net: Name=NetU4_B6
+Added Pin To Net: NetName=NetU4_E6 Pin=U4-E6
+Added Pin To Net: NetName=NetU4_E6 Pin=U4-F4
+Added Net: Name=NetU4_E6
+Added Pin To Net: NetName=NetU4_H6 Pin=U4-H6
+Added Pin To Net: NetName=NetU4_H6 Pin=U4-J4
+Added Net: Name=NetU4_H6
+Added Pin To Net: NetName=NetU4_K5 Pin=U4-K5
+Added Pin To Net: NetName=NetU4_K5 Pin=U4-L6
+Added Net: Name=NetU4_K5
