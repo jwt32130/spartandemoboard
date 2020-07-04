@@ -190,12 +190,150 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[ProjectVariant1]
+UniqueID=0C4868B3-FEC0-45A4-A11C-01E56A87BD3A
+Description=QuadFlashBoot
+AllowFabrication=0
+ParameterCount=0
+VariationCount=6
+Variation1=Designator=R22|UniqueId=\YQZVSUGK|Kind=1|AlternatePart= 
+Variation2=Designator=R23|UniqueId=\IHKEGZHR|Kind=1|AlternatePart= 
+Variation3=Designator=R25|UniqueId=\UGLMWKFM|Kind=1|AlternatePart= 
+Variation4=Designator=R67|UniqueId=\ATNUMZYC|Kind=1|AlternatePart= 
+Variation5=Designator=R64|UniqueId=\MWOHLSTN|Kind=1|AlternatePart= 
+Variation6=Designator=R65|UniqueId=\KBDCONMV|Kind=1|AlternatePart= 
+ParamVariationCount=0
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for SpartanMainBoard\BGA Escape Route - PCB1.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
 DocumentPath=Project Outputs for SpartanMainBoard\Design Rule Check - PCB1.html
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for SpartanMainBoard\NC Drill Files\NC Drill\PCB1-RoundHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for SpartanMainBoard\NC Drill Files\NC Drill\PCB1-SlotHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for SpartanMainBoard\NC Drill Files\NC Drill\PCB1.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for SpartanMainBoard\Gerber\PCB1.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for SpartanMainBoard\Gerber Files\Gerber\PCB1.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for SpartanMainBoard\Gerber\PCB1.G1
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for SpartanMainBoard\Gerber Files\Gerber\PCB1.G1
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for SpartanMainBoard\Gerber\PCB1.G2
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for SpartanMainBoard\Gerber Files\Gerber\PCB1.G2
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for SpartanMainBoard\Gerber\PCB1.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for SpartanMainBoard\Gerber Files\Gerber\PCB1.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for SpartanMainBoard\Gerber\PCB1.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for SpartanMainBoard\Gerber Files\Gerber\PCB1.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for SpartanMainBoard\Gerber\PCB1.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for SpartanMainBoard\Gerber Files\Gerber\PCB1.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for SpartanMainBoard\Gerber\PCB1.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for SpartanMainBoard\Gerber Files\Gerber\PCB1.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for SpartanMainBoard\Gerber\PCB1.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for SpartanMainBoard\Gerber Files\Gerber\PCB1.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for SpartanMainBoard\Gerber\PCB1.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for SpartanMainBoard\Gerber Files\Gerber\PCB1.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for SpartanMainBoard\Gerber\PCB1.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for SpartanMainBoard\Gerber Files\Gerber\PCB1.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for SpartanMainBoard\Gerber\PCB1.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for SpartanMainBoard\Gerber Files\Gerber\PCB1.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for SpartanMainBoard\Gerber\PCB1.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for SpartanMainBoard\Gerber Files\Gerber\PCB1.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Project Outputs for SpartanMainBoard\NC Drill Files\NC Drill\PCB1.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project Outputs for SpartanMainBoard\Gerber Files\Gerber\PCB1.REP
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project Outputs for SpartanMainBoard\Gerber\PCB1.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Project Outputs for SpartanMainBoard\Gerber Files\Gerber\PCB1.RUL
 DItemRevisionGUID=
 
 [Configuration1]
