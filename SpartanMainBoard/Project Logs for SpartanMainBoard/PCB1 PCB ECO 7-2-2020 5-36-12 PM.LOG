@@ -1,0 +1,73 @@
+Removed Pin From Net: NetName=SRAM_A11 Pin=U-1
+Removed Pin From Net: NetName=SRAM_A9 Pin=U-2
+Removed Pin From Net: NetName=SRAM_A8 Pin=U-3
+Removed Pin From Net: NetName=SRAM_A13 Pin=U-4
+Removed Pin From Net: NetName=SRAM_WE Pin=U-5
+Removed Pin From Net: NetName=SRAM_A18 Pin=U-6
+Removed Pin From Net: NetName=SRAM_A15 Pin=U-7
+Removed Pin From Net: NetName=+3V3 Pin=U-8
+Removed Pin From Net: NetName=SRAM_A17 Pin=U-9
+Removed Pin From Net: NetName=SRAM_A16 Pin=U-10
+Removed Pin From Net: NetName=SRAM_A14 Pin=U-11
+Removed Pin From Net: NetName=SRAM_A12 Pin=U-12
+Removed Pin From Net: NetName=SRAM_A7 Pin=U-13
+Removed Pin From Net: NetName=SRAM_A6 Pin=U-14
+Removed Pin From Net: NetName=SRAM_A5 Pin=U-15
+Removed Pin From Net: NetName=SRAM_A4 Pin=U-16
+Removed Pin From Net: NetName=SRAM_A3 Pin=U-17
+Removed Pin From Net: NetName=SRAM_A2 Pin=U-18
+Removed Pin From Net: NetName=SRAM_A1 Pin=U-19
+Removed Pin From Net: NetName=SRAM_A0 Pin=U-20
+Removed Pin From Net: NetName=SRAM_DQ0 Pin=U-21
+Removed Pin From Net: NetName=SRAM_DQ1 Pin=U-22
+Removed Pin From Net: NetName=SRAM_DQ2 Pin=U-23
+Removed Pin From Net: NetName=GND Pin=U-24
+Removed Pin From Net: NetName=SRAM_DQ3 Pin=U-25
+Removed Pin From Net: NetName=SRAM_DQ4 Pin=U-26
+Removed Pin From Net: NetName=SRAM_DQ5 Pin=U-27
+Removed Pin From Net: NetName=SRAM_DQ6 Pin=U-28
+Removed Pin From Net: NetName=SRAM_DQ7 Pin=U-29
+Removed Pin From Net: NetName=SRAM_C\S\1\ Pin=U-30
+Removed Pin From Net: NetName=SRAM_A10 Pin=U-31
+Removed Pin From Net: NetName=SRAM_OE Pin=U-32
+Removed Member From Class: ClassName=ArtixBank15 Member=U
+Added Component: Designator=U6(SOIC50P1340X125-32N)
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "IS62WV5128BLL-55HLI-TR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ISSI, Integrated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "IS62WV5128BLL-55HLI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "LFSOP-32 ISSI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/IS62WV5128BLL-55HLI/ISSI,%20Integrated%20Silicon%20Solution%20Inc/view-part/33690/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SRAM_A11 Pin=U6-1
+Added Pin To Net: NetName=SRAM_A9 Pin=U6-2
+Added Pin To Net: NetName=SRAM_A8 Pin=U6-3
+Added Pin To Net: NetName=SRAM_A13 Pin=U6-4
+Added Pin To Net: NetName=SRAM_WE Pin=U6-5
+Added Pin To Net: NetName=SRAM_A18 Pin=U6-6
+Added Pin To Net: NetName=SRAM_A15 Pin=U6-7
+Added Pin To Net: NetName=+3V3 Pin=U6-8
+Added Pin To Net: NetName=SRAM_A17 Pin=U6-9
+Added Pin To Net: NetName=SRAM_A16 Pin=U6-10
+Added Pin To Net: NetName=SRAM_A14 Pin=U6-11
+Added Pin To Net: NetName=SRAM_A12 Pin=U6-12
+Added Pin To Net: NetName=SRAM_A7 Pin=U6-13
+Added Pin To Net: NetName=SRAM_A6 Pin=U6-14
+Added Pin To Net: NetName=SRAM_A5 Pin=U6-15
+Added Pin To Net: NetName=SRAM_A4 Pin=U6-16
+Added Pin To Net: NetName=SRAM_A3 Pin=U6-17
+Added Pin To Net: NetName=SRAM_A2 Pin=U6-18
+Added Pin To Net: NetName=SRAM_A1 Pin=U6-19
+Added Pin To Net: NetName=SRAM_A0 Pin=U6-20
+Added Pin To Net: NetName=SRAM_DQ0 Pin=U6-21
+Added Pin To Net: NetName=SRAM_DQ1 Pin=U6-22
+Added Pin To Net: NetName=SRAM_DQ2 Pin=U6-23
+Added Pin To Net: NetName=GND Pin=U6-24
+Added Pin To Net: NetName=SRAM_DQ3 Pin=U6-25
+Added Pin To Net: NetName=SRAM_DQ4 Pin=U6-26
+Added Pin To Net: NetName=SRAM_DQ5 Pin=U6-27
+Added Pin To Net: NetName=SRAM_DQ6 Pin=U6-28
+Added Pin To Net: NetName=SRAM_DQ7 Pin=U6-29
+Added Pin To Net: NetName=SRAM_C\S\1\ Pin=U6-30
+Added Pin To Net: NetName=SRAM_A10 Pin=U6-31
+Added Pin To Net: NetName=SRAM_OE Pin=U6-32
+Added Member To Class: ClassName=ArtixBank15 Member=Component U6 IS62WV5128BLL-55HLI
